@@ -61,7 +61,7 @@ To run the project in your local machine:
 docker run --rm -it -p 127.0.0.1:8000:8000 poetry-project
 ```
 
-( The project was dockerized using this exapmle: <https://github.com/svx/poetry-fastapi-docker> )
+( The project was dockerized using this example: <https://github.com/svx/poetry-fastapi-docker> )
 
 
 ## Next steps
